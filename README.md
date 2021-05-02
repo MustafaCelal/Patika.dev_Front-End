@@ -1,5 +1,5 @@
 # Kodluyoruz Ilk Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet de LICENSE dosyası barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Git Eğitimi kapsamında açtığım ilk repo. İçerisinde bir adet README dosyası, bir adet html dosyası, bir adet de LICENSE dosyası barındırıyor.
 
 # Installation
 Öncelikle projeyi klonlayın.(Buraya sizin reponuzdan aldığınız link gelecek)
