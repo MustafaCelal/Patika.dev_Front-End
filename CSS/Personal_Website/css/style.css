@@ -1,0 +1,66 @@
+body{
+	background-color: darkgray;
+	/* margin-left: 10%; */
+	margin: 3% 10%;
+
+}
+h1{
+	font-size: 2.5em;
+}
+h2{
+	font-size: 2em;
+}
+
+/* navigation start */
+nav{
+	background-color: azure;
+}
+
+.nav_list{
+	/* list-style-position: inside; */
+	list-style-type: none;
+	text-align: center;
+	align-items: center;
+	
+}
+
+.nav_list_item{
+	display: inline;
+	margin: 3px;
+	background-color: aqua;
+	color: black;
+	font-size: 1.1em;
+
+}
+
+/* navigation end */
+
+
+/* Contents start */
+section{
+	
+	text-align: center;
+	/* align-content: center; */
+}
+
+article{
+	text-align: start;
+}
+
+.section_heading{
+	text-align: center;
+	color: brown;
+	font-size: 1.5em;
+}
+
+.article_heading{
+	margin-left: 2%;
+	color: darkmagenta;
+	font-family: 'Indie Flower', cursive;
+	font-size: 1.1em;
+}
+
+.article_paragraph{
+	font-family: 'Indie Flower', cursive;
+}
+/* Contents end */
