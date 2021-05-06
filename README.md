@@ -1,5 +1,5 @@
 # Kodluyoruz Front-End Repo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) [Patika.dev](https://www.patika.dev/) Front-End patikası kapsamında açtığım repodur. İçerisinde bir adet README dosyası, bir adet LICENSE dosyası ve patika boyunca yaptığım projeleri barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) - [Patika.dev](https://www.patika.dev/) Front-End patikası kapsamında açtığım repodur. İçerisinde bir adet README dosyası, bir adet LICENSE dosyası ve patika boyunca yaptığım projeleri barındırıyor.
 
 # Installation
 Öncelikle projeyi klonlayın.
