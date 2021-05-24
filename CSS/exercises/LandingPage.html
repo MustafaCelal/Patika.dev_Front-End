@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LandingPage</title>
+
+    <style>
+      * {
+        margin: 0px;
+      }
+      body {
+        background-color: gray;
+        color: white;
+      }
+
+      /*	Header start	*/
+      nav {
+        background-color: #ffd56b;
+        /* display: flex; */
+        /* flex-direction: row; */
+      }
+
+      ul {
+        background-color: #a6d6d6;
+        list-style: none;
+      }
+
+      li {
+        background-color: #e1701a;
+        width: 40px;
+        height: 40px;
+        margin: 5px;
+        float: right;
+      }
+
+      ul > :first-child {
+        background-color: black;
+        border-radius: 50%;
+      }
+
+      /*	Header End	*/
+
+      .logo {
+        background-color: #cc9b6d;
+        font-size: 30px;
+        text-align: center;
+        margin: 10% auto 0%;
+        width: 50%;
+        /* height: 60px; */
+      }
+
+      /* input - start */
+
+      .input-area {
+        /* background-color: #4aa96c; */
+        /* background-color: black; */
+      }
+
+      .search-area {
+        background-color: #9fe6a0;
+        height: 40px;
+        width: 70%;
+        margin: auto auto 10px;
+        border-radius: 20px;
+      }
+
+      .buttons-area {
+        background-color: #36e9fd;
+        height: 50px;
+        width: 70%;
+        margin: auto;
+        border-radius: 5px;
+        /* padding: 5px; */
+      }
+      button {
+        height: 40px;
+        background-color: #334443;
+        /* background-color: transparent; */
+        color: white;
+        border: 0px;
+      }
+      #click-me {
+        background-color: black;
+        width: 35%;
+        float: left;
+        /* margin-right: 5px; */
+        /* display: inline-block; */
+        border-radius: 5px;
+      }
+
+      #touch-me {
+        background-color: red;
+        width: 55%;
+        float: right;
+        border-radius: 5px;
+      }
+
+      /* input - end */
+
+      footer {
+        background-color: #f55c47;
+        height: 30px;
+        width: 100%;
+        /* position: absolute; */
+
+        margin-bottom: 0;
+        position: absolute;
+        bottom: 0;
+      }
+      .clear {
+        clear: both;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <nav>
+        <ul>
+          <li></li>
+          <li></li>
+          <li></li>
+        </ul>
+      </nav>
+    </header>
+
+    <div class="clear"></div>
+
+    <div class="logo"><h1>L O G O</h1></div>
+
+    <div class="input-area">
+      <div class="search-area"></div>
+      <div class="buttons-area">
+        <div id="click-me"><button type="button">CLICK ME</button></div>
+        <div id="touch-me"><button type="button">TOUCH ME</button></div>
+      </div>
+    </div>
+
+    <div class="clear"></div>
+
+    <footer></footer>
+  </body>
+</html>
